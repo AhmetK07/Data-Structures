@@ -1,0 +1,6 @@
+﻿  TermMain.c
+c:\users\kaan\source\repos\termproject\termproject\termmain.c(23): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TermSecond.c
+  Generating Code...
+c:\users\kaan\source\repos\termproject\termproject\termsecond.c(25): warning C4172: returning address of local variable or temporary: String
+  TermProject.vcxproj -> C:\Users\Kaan\source\repos\TermProject\x64\Debug\TermProject.exe
